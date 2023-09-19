@@ -9,5 +9,5 @@ Within the app a user can retrive data, update, create and delete certain feilds
 Please note that if a user is using this repo they will need to have thier own .ENV and config.json file
 
 Repo link: https://github.com/markymark97/Ecommerce
-Video: 
+Video: https://www.youtube.com/watch?v=h0jnuA0UA6s&ab_channel=ETPoptart
 
